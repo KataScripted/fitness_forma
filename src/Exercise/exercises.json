@@ -1,0 +1,636 @@
+[
+    {
+        "multi": false,
+        "id": 1,
+        "title": "Отжимания",
+        "image": "https://i.ibb.co/sg4G3CR/app-hands.png",
+        "imageGif": "https://i.ibb.co/BTP5VKP/min.gif",
+        "description": "Лягте на пол, поддерживая свой вес руками. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 20 раз.",
+        "category": "hands",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0.1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 2,
+        "title": "Пресс",
+        "image": "https://i.ibb.co/PZNgTNq/app-body.jpg",
+        "imageGif": "https://i.ibb.co/wQG1NJQ/min.gif",
+        "description": "Лягте на спину и согните ноги в коленях. Медленно поднимайте голову в сторону колен.\n\n Медленно опустите голову обратно на пол.\n\n Повторяйте в течении одной минуты.",
+        "category":"body",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.25,
+        "ads_level_to_body": 0.3,
+        "ads_level_to_legs": 0.1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 3,
+        "title": "Прыжки",
+        "image": "https://i.ibb.co/K6dCQC0/app-legs-another-min.jpg",
+        "imageGif": "https://i.ibb.co/z2MM5Ff/image.gif",
+        "description": "Прыгните, отталкиваясь ногами от пола и машите руками снизу вверх. Повторите 25 раз.",
+        "category":"legs",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.1,
+        "ads_level_to_body": 0.1,
+        "ads_level_to_legs": 0.5,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 4,
+        "title": "Ножницы",
+        "image": "https://i.ibb.co/PZNgTNq/app-body.jpg",
+        "imageGif": "https://i.ibb.co/x6xGyVK/min.gif",
+        "description": "Лягте на спину, тяните пупок к позвоночнику и прижимайте поясницу к полу. Поднимите вверх обе ноги до угла в 45 градусов, вытяните носочки. Начните медленно скрещивать ноги. Выполните 10–15 повторений на каждую. Можете усложнить упражнение, накинув на ноги петли эспандера.",
+        "category":"legs",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.3,
+        "ads_level_to_body": 0.3,
+        "ads_level_to_legs": 0.3,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": true,
+        "id": 101,
+        "title": "Начальный уровень",
+        "image": "https://i.ibb.co/sg4G3CR/app-hands.png",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.5,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.5,
+        "exercise": [
+            {
+                "id": 1,
+                "title": "Отжимания",
+                "image": "https://i.ibb.co/sg4G3CR/app-hands.png"
+            },
+            {
+                "id": 2,
+                "title": "Пресс",
+                "image": "https://i.ibb.co/PZNgTNq/app-body.jpg"
+            },
+            {
+                "id": 3,
+                "title": "Прыжки",
+                "image": "https://i.ibb.co/K6dCQC0/app-legs-another-min.jpg"
+            },
+            {
+                "id": 4,
+                "title": "Ножницы",
+                "image": "https://i.ibb.co/PZNgTNq/app-body.jpg"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 102,
+        "title": "Тело",
+        "image": "https://i.ibb.co/M6ysJyL/2.jpg",
+        "level_hands_has_to_min": 0.7,
+        "level_body_has_to_min": 1.5,
+        "level_legs_has_to_min": 0.9,
+        "ads_level_to_hands": 0.3,
+        "ads_level_to_body": 0.3,
+        "ads_level_to_legs": 0.3,
+        "exercise": [
+            {
+                "id": 5,
+                "title": "Скручивания лягушкой",
+                "image": "https://i.ibb.co/PZNgTNq/app-body.jpg"
+            },
+            {
+                "id": 6,
+                "title": "Велосипед",
+                "image": "https://i.ibb.co/K6dCQC0/app-legs-another-min.jpg"
+            },
+            {
+                "id": 7,
+                "title": "Полубанан",
+                "image": "https://i.ibb.co/M6ysJyL/2.jpg"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 103,
+        "title": "Тело и Пресс",
+        "image": "https://i.ibb.co/PZNgTNq/app-body.jpg",
+        "level_hands_has_to_min": 1.1,
+        "level_body_has_to_min": 1.8,
+        "level_legs_has_to_min": 1,
+        "ads_level_to_hands": 0.5,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.5,
+        "exercise": [
+            {
+                "id": 8,
+                "title": "Обратный скручивания",
+                "image": "https://i.ibb.co/PZNgTNq/app-body.jpg"
+            },
+            {
+                "id": 9,
+                "title": "Скручивания",
+                "image": "https://i.ibb.co/M6ysJyL/2.jpg"
+            },
+            {
+                "id": 10,
+                "title": "V-образные подъёмы корпуса с согнутыми ногами",
+                "image": "https://i.ibb.co/PZNgTNq/app-body.jpg"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 104,
+        "title": "Руки",
+        "image": "https://i.ibb.co/sg4G3CR/app-hands.png",
+        "level_hands_has_to_min": 1.7,
+        "level_body_has_to_min": 0.9,
+        "level_legs_has_to_min": 1.3,
+        "ads_level_to_hands": 0.5,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.5,
+        "exercise": [
+            {
+                "id": 11,
+                "title": "Подъём рук и ног",
+                "image": "https://i.ibb.co/sg4G3CR/app-hands.png"
+            },
+            {
+                "id": 12,
+                "title": "Широкие отжимания",
+                "image": "https://i.ibb.co/XxKLD0m/app-hands2.jpg"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 105,
+        "title": "Руки и Корпус",
+        "image": "https://i.ibb.co/XxKLD0m/app-hands2.jpg",
+        "level_hands_has_to_min": 1.4,
+        "level_body_has_to_min": 0.9,
+        "level_legs_has_to_min": 1.7,
+        "ads_level_to_hands": 0.5,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.5,
+        "exercise": [
+            {
+                "id": 13,
+                "title": "Отжимания на коленях",
+                "image": "https://i.ibb.co/sg4G3CR/app-hands.png"
+            },
+            {
+                "id": 14,
+                "title": "Приседания",
+                "image": "https://i.ibb.co/K6dCQC0/app-legs-another-min.jpg"
+            },
+            {
+                "id": 15,
+                "title": "Подъём на насочки",
+                "image": "https://i.ibb.co/K6dCQC0/app-legs-another-min.jpg"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 106,
+        "title": "Плечи",
+        "image": "https://i.ibb.co/sg4G3CR/app-hands.png",
+        "level_hands_has_to_min": 2.1,
+        "level_body_has_to_min": 1.1,
+        "level_legs_has_to_min": 1.5,
+        "ads_level_to_hands": 0.7,
+        "ads_level_to_body": 0.7,
+        "ads_level_to_legs": 0.7,
+        "exercise": [
+            {
+                "id": 16,
+                "title": "Отжимания",
+                "image": "https://i.ibb.co/XxKLD0m/app-hands2.jpg"
+            },
+            {
+                "id": 17,
+                "title":"Вращение рукой в планке",
+                "image": "https://i.ibb.co/XxKLD0m/app-hands2.jpg"
+
+            },
+            {
+                "id": 18,
+                "title": "Отжимания звёздочкой",
+                "image": "https://i.ibb.co/sg4G3CR/app-hands.png"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 107,
+        "title": "Пресс и руки",
+        "image": "https://i.ibb.co/M6ysJyL/2.jpg",
+        "level_hands_has_to_min": 1.9,
+        "level_body_has_to_min": 2.1,
+        "level_legs_has_to_min": 1.6,
+        "ads_level_to_hands": 0.7,
+        "ads_level_to_body": 0.7,
+        "ads_level_to_legs": 0.7,
+        "exercise": [
+            {
+                "id": 19,
+                "title": "Вращение рукой в планке",
+                "image": "https://i.ibb.co/XxKLD0m/app-hands2.jpg"
+            },
+            {
+                "id": 20,
+                "title": "Супремен",
+                "image": "https://i.ibb.co/M6ysJyL/2.jpg"
+            },
+            {
+                "id": 21,
+                "title": "Бег с высоким подъемом колен",
+                "image": "https://i.ibb.co/K6dCQC0/app-legs-another-min.jpg"
+            },
+            {
+                "id": 22,
+                "title": "Касание плеч в планке",
+                "image": "https://i.ibb.co/PZNgTNq/app-body.jpg"
+            }
+        ]
+    },
+    {
+        "multi": false,
+        "id": 5,
+        "title": "Скручивания лягушкой",
+        "image": "https://i.ibb.co/PZNgTNq/app-body.jpg",
+        "imageGif": "https://i.ibb.co/jhBHY1C/gif-min.gif",
+        "description": "Сядьте на пол, вес расположите на седалищных костях. Подайте назад спину, чтобы удержать равновесие, согните колени и оторвите от пола стопы. Выдохните, подтяните пупок к позвоночнику и откиньтесь назад, раскрывая руки и выпрямляя ноги. Со вдохом вернитесь в исходное положение с коленями у груди. Повторите 20 раз.",
+        "category":"body",
+        "level_hands_has_to_min": 0.1,
+        "level_body_has_to_min": 0.5,
+        "level_legs_has_to_min": 0.3,
+        "ads_level_to_hands": 0.1,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0.2,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 6,
+        "title": "Велосипед",
+        "image": "https://i.ibb.co/K6dCQC0/app-legs-another-min.jpg",
+        "imageGif": "https://i.ibb.co/kmNq24W/min-1.gif",
+        "description": "Лягте на пол, прижмите поясницу к полу, руки уберите за голову. Подтяните колени к груди и оторвите от пола лопатки. Выпрямите правую ногу невысоко от пола, а тело поверните в левую сторону, коснувшись правым локтем левого колена. В этом движении поворачивается вся грудная клетка, а не только локоть. Выполните упражнение в другую сторону. Это одно повторение. Выполните 25 повторений.",
+        "category":"body",
+        "level_hands_has_to_min": 0.2,
+        "level_body_has_to_min": 0.4,
+        "level_legs_has_to_min": 0.5,
+        "ads_level_to_hands": 0.1,
+        "ads_level_to_body": 0.4,
+        "ads_level_to_legs": 0.5,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 7,
+        "title": "Полубанан",
+        "image": "https://i.ibb.co/M6ysJyL/2.jpg",
+        "imageGif": "https://i.ibb.co/ZNB7Djw/min.gif",
+        "description": "Лягте на пол, выпрямите ноги, руки вытяните перед собой. С выдохом поднимите корпус и левую ногу, руки стремятся к левой стопе. Зафиксируйте позу в крайнем положении и медленно вернитесь обратно. Повторите скручивание к другой ноге. Продолжая чередовать стороны, повторите 20 раз.",
+        "category":"legs",
+        "level_hands_has_to_min": 0.3,
+        "level_body_has_to_min": 0.4,
+        "level_legs_has_to_min": 0.3,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 0.3,
+        "ads_level_to_legs": 0.2,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 8,
+        "title": "Обратные скручивания",
+        "image": "https://i.ibb.co/PZNgTNq/app-body.jpg",
+        "imageGif": "https://i.ibb.co/jhBHY1C/gif-min.gif",
+        "description": "Лягте на пол, положите руки по сторонам от туловища ладонями вниз. Поднимите ноги, согнутые в коленях, чтобы они располагались на уровне груди. Оторвите бёдра от пола, поднимая ноги выше. Опустите ноги обратно на пол и повторите 2–3 раза. Не используйте инерцию, движение нужно совершать за счёт мышц, поэтому выполняйте его медленно.",
+        "category":"body",
+        "level_hands_has_to_min": 0.3,
+        "level_body_has_to_min": 0.5,
+        "level_legs_has_to_min": 0.3,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 9,
+        "title": "Скручивания",
+        "image": "https://i.ibb.co/M6ysJyL/2.jpg",
+        "imageGif": "https://i.ibb.co/jhBHY1C/gif-min.gif",
+        "description": "Сядьте на пол, согните колени, стопы поставьте на пятки, откиньте корпус назад, спина прямая. Удерживая руки перед грудью, поверните корпус вправо, затем влево — это одно повторение. Выполните упражнение 15 раз. Если хотите усложнить упражнение, оторвите стопы от пола.",
+        "category":"body",
+        "level_hands_has_to_min": 0.4,
+        "level_body_has_to_min": 0.5,
+        "level_legs_has_to_min": 0.3,
+        "ads_level_to_hands": 0.1,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0.2,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 10,
+        "title": "V-образные подъёмы корпуса с согнутыми ногами",
+        "image": "https://i.ibb.co/PZNgTNq/app-body.jpg",
+        "imageGif": "https://i.ibb.co/QNt2qcS/V-min.gif",
+        "description": "Лягте на пол, вытяните ноги, руки вдоль туловища. Поднимите невысоко от пола ноги и плечи — это исходное положение. Поднимите корпус с прямой спиной и согнутые в коленях ноги, на полу остаётся только таз. Вернитесь в исходное положение и повторите 25 раз.",
+        "category":"body",
+        "level_hands_has_to_min": 0.2,
+        "level_body_has_to_min": 0.5,
+        "level_legs_has_to_min": 0.3,
+        "ads_level_to_hands": 0.1,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.3,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 11,
+        "title": "Подъём рук и ног",
+        "image": "https://i.ibb.co/sg4G3CR/app-hands.png",
+        "imageGif": "https://i.ibb.co/ZfxH0Hw/min.gif",
+        "description": "Лягте на живот, поднимите руки над головой. Вытягивайте живот, чтобы защитить и удлинить нижнюю часть спины. Поднимите прямые ноги, руки и голову. Поднимите правую ногу и левую руку чуть выше, затем опустите их ниже и поднимите левую ногу и правую руку. Продолжайте медленно чередовать руки и ноги, не болтайтесь, удерживайте корпус на месте. Повторите 20 раз.",
+        "category":"legs",
+        "level_hands_has_to_min": 0.5,
+        "level_body_has_to_min": 0.4,
+        "level_legs_has_to_min": 0.5,
+        "ads_level_to_hands": 0.4,
+        "ads_level_to_body": 0.1,
+        "ads_level_to_legs": 0.4,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 12,
+        "title": "Широкие отжимания",
+        "image": "https://i.ibb.co/XxKLD0m/app-hands2.jpg",
+        "imageGif": "https://i.ibb.co/5BbJQkw/min.gif",
+        "description": "Лягте на пол, поддерживая свой вес руками, раздвиньте руки шире. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 10 раз.",
+        "category":"hands",
+        "level_hands_has_to_min": 0.6,
+        "level_body_has_to_min": 0.2,
+        "level_legs_has_to_min": 0.1,
+        "ads_level_to_hands": 0.5,
+        "ads_level_to_body": 0.1,
+        "ads_level_to_legs": 0.1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 13,
+        "title": "Отжимания на коленях",
+        "image": "https://i.ibb.co/sg4G3CR/app-hands.png",
+        "imageGif": "https://i.ibb.co/zx63hwg/min.gif",
+        "description": "Лягте на пол, поддерживая свой вес руками. Упритесь об пол коленями. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 10 раз.",
+        "category":"hands",
+        "level_hands_has_to_min": 0.5,
+        "level_body_has_to_min": 0.2,
+        "level_legs_has_to_min": 0.1,
+        "ads_level_to_hands": 0.4,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0.1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 14,
+        "title": "Приседания",
+        "image": "https://i.ibb.co/K6dCQC0/app-legs-another-min.jpg",
+        "imageGif": "https://i.ibb.co/TP0NFL3/image.gif",
+        "description": "Лягте на пол поддерживая свой вес руками. Упритесь об пол коленями. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 10 раз.",
+        "category":"legs",
+        "level_hands_has_to_min": 0.2,
+        "level_body_has_to_min": 0.3,
+        "level_legs_has_to_min": 0.5,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 0.3,
+        "ads_level_to_legs": 0.5,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 15,
+        "title": "Подъём на носочки",
+        "image": "https://i.ibb.co/K6dCQC0/app-legs-another-min.jpg",
+        "imageGif": "https://i.ibb.co/LC3KhfZ/image.gif",
+        "description": "Упритесь в стену на выпрямленные руки. Медленно подымайтесь на носочки и затем так же медленно опускайтесь. Повторите 10 раз.",
+        "category":"legs",
+        "level_hands_has_to_min": 0.3,
+        "level_body_has_to_min": 0.2,
+        "level_legs_has_to_min": 0.6,
+        "ads_level_to_hands": 0.1,
+        "ads_level_to_body": 0.1,
+        "ads_level_to_legs": 0.5,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 16,
+        "title": "Отжимания",
+        "image": "https://i.ibb.co/XxKLD0m/app-hands2.jpg",
+        "imageGif": "https://i.ibb.co/BTP5VKP/min.gif",
+        "description": "Лягте на пол, поддерживая свой вес руками. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 20 раз.",
+        "category":"hands",
+        "level_hands_has_to_min": 0.6,
+        "level_body_has_to_min": 0.2,
+        "level_legs_has_to_min": 0.1,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0.1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 17,
+        "title": "Вращение рукой в планке",
+        "image": "https://i.ibb.co/XxKLD0m/app-hands2.jpg",
+        "imageGif": "https://i.ibb.co/MSfRT9x/min.gif",
+        "description": "Примите положение планки на руках, ноги немного расставлены. Тело образует прямую линию, поясница не прогибается, пресс подтянут. Оторвите одну ладонь от пола и выполните круговое движение прямой рукой. Вернитесь в исходное положение. Затем проделайте тоже самое второй рукой. Выполните 15 повторений на каждую руку.",
+        "level_hands_has_to_min": 0.7,
+        "category":"body",
+        "level_body_has_to_min": 1,
+        "level_legs_has_to_min": 0.5,
+        "ads_level_to_hands": 0.3,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 18,
+        "title": "Отжимания звёздочкой",
+        "image": "https://i.ibb.co/sg4G3CR/app-hands.png",
+        "imageGif": "https://i.ibb.co/DpgBz5t/min.gif",
+        "description": "Лягте на пол, поддерживая свой вес руками. Пальцы рук должны прикасаться друг к другу и формировать звёздочку. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 15 раз.",
+        "category":"hands",
+        "level_hands_has_to_min": 1.1,
+        "level_body_has_to_min": 0.4,
+        "level_legs_has_to_min": 0.4,
+        "ads_level_to_hands": 0.6,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0.1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 19,
+        "title": "Вращение рукой в планке",
+        "image": "https://i.ibb.co/XxKLD0m/app-hands2.jpg",
+        "imageGif": "https://i.ibb.co/MSfRT9x/min.gif",
+        "description": "Примите положение планки на руках, ноги немного расставлены. Тело образует прямую линию, поясница не прогибается, пресс подтянут. Оторвите одну ладонь от пола и выполните круговое движение прямой рукой. Вернитесь в исходное положение. Затем проделайте тоже самое второй рукой. Выполните 15 повторений на каждую руку.",
+        "category":"hands",
+        "level_hands_has_to_min": 0.7,
+        "level_body_has_to_min": 1,
+        "level_legs_has_to_min": 0.5,
+        "ads_level_to_hands": 0.3,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 20,
+        "title": "Супермен",
+        "image": "https://i.ibb.co/M6ysJyL/2.jpg",
+        "imageGif": "https://i.ibb.co/Yknrt14/min.gif",
+        "description": "Это еще одно очень полезное упражнение для осанки и позвоночника. Лягте на живот, голова опущена на коврик. Руки вытянуты вперед ладонями вниз. Оторвите одновременно от пола голову, грудь, бедра и поднимите их максимально вверх. Задержитесь на несколько секунд и затем вернитесь в исходное положение. Не тяните шею вверх, она сохраняет естественное положение. Выполните 15 повторений.",
+        "category":"body",
+        "level_hands_has_to_min": 0.6,
+        "level_body_has_to_min": 1.2,
+        "level_legs_has_to_min": 1,
+        "ads_level_to_hands": 0.3,
+        "ads_level_to_body": 0.3,
+        "ads_level_to_legs": 0.3,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 21,
+        "title": "Бег с высоким подъемом колен",
+        "image": "https://i.ibb.co/K6dCQC0/app-legs-another-min.jpg",
+        "imageGif": "https://i.ibb.co/1TbbyzH/image.gif",
+        "description": "Быстро подымайте колени до уровня пояса. Сначала левую ногу, затем правую. Выполняйте это в виде бега 30 секунд.",
+        "category":"legs",
+        "level_hands_has_to_min": 0.4,
+        "level_body_has_to_min": 1,
+        "level_legs_has_to_min": 1.3,
+        "ads_level_to_hands": 0.1,
+        "ads_level_to_body": 0.1,
+        "ads_level_to_legs": 0.5,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 22,
+        "title": "Касание плеч в планке",
+        "image": "https://i.ibb.co/PZNgTNq/app-body.jpg",
+        "imageGif": "https://i.ibb.co/pLDTJww/min.gif",
+        "description": "Примите положение планки на руках, ноги немного расставлены. Тело образует прямую линию, поясница не прогибается, пресс подтянут. Оторвите одну ладонь от пола и коснитесь ею противоположное плечо. Вернитесь в исходное положение. ",
+        "category":"body",
+        "level_hands_has_to_min": 1,
+        "level_body_has_to_min": 1.5,
+        "level_legs_has_to_min": 1,
+        "ads_level_to_hands": 0.4,
+        "ads_level_to_body": 0.4,
+        "ads_level_to_legs": 0.1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 22,
+        "title": "Разводы в сторону",
+        "image": "https://i.ibb.co/sg4G3CR/app-hands.png",
+        "imageGif": "https://ibb.co/sp7ffKx",
+        "description": "Встаньте в полный рост и возьмите гонтели в руки. Стараясь дердать спину ровно подымайте гонтели перед собой и затем раздвигайте их с сторону. Затем верните руки в начальное положение.",
+        "category":"hands",
+        "level_hands_has_to_min": 2,
+        "level_body_has_to_min": 1.5,
+        "level_legs_has_to_min": 1,
+        "ads_level_to_hands": 0.8,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.2,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 22,
+        "title": "Подъём гонтелей в сторону",
+        "image": "https://i.ibb.co/sg4G3CR/app-hands.png",
+        "imageGif": "https://ibb.co/z2dwMNL",
+        "description": "Встаньте в полный рост и возьмите гонтели в руки. Стараясь дердать спину ровно подымайте гонтели в сторону и возвращайте руки в исходное положение.",
+        "category":"hands",
+        "level_hands_has_to_min": 2,
+        "level_body_has_to_min": 1.5,
+        "level_legs_has_to_min": 1,
+        "ads_level_to_hands": 0.9,
+        "ads_level_to_body": 0.4,
+        "ads_level_to_legs": 0.1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 22,
+        "title": "Подъём обратным хватом",
+        "image": "https://i.ibb.co/sg4G3CR/app-hands.png",
+        "imageGif": "https://ibb.co/pQgT1bb",
+        "description": "Возьмите гантели обратным хватом, при этом ладони повернуты в сторону бедер, а оси гантелей словно продолжают друг друга. Согните руки в локтях, поднимая снаряды вверх до уровня груди.",
+        "category":"hands",
+        "level_hands_has_to_min": 2,
+        "level_body_has_to_min": 1.8,
+        "level_legs_has_to_min": 1.5,
+        "ads_level_to_hands": 1.1,
+        "ads_level_to_body": 0.4,
+        "ads_level_to_legs": 0.1,
+        "time": 60,
+        "sum": 20
+    }
+]

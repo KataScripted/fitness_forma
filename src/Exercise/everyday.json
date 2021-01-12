@@ -1,0 +1,80 @@
+[
+    {
+        "multi": false,
+        "id": 1,
+        "title": "Бег в планке",
+        "image": "https://i.ibb.co/RyCJvCS/everyday1.jpg",
+        "imageGif": "https://i.ibb.co/Hdv7bq6/image.gif",
+        "description": "Быстро подымайте колени до уровня пояса. Сначала левую ногу, затем правую. Выполняйте это в виде бега 30 секунд.",
+        "ads_level_to_hands": 0.5,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.5,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 2,
+        "title": "Боковая планка",
+        "image": "https://i.ibb.co/0F4nNVV/everyday2.jpg",
+        "imageGif": "https://i.ibb.co/N9vSLXX/image.giff",
+        "description": "Лягте на бок, поставьте руку на предплечье, ноги согните в коленях и положите друг на друга. Подымите ногу и верните её в исходное положение. Повторите 20 раз.",
+        "ads_level_to_hands": 0.5,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.5,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 3,
+        "title": "Подъём головы",
+        "image": "https://i.ibb.co/sJkrL02/everyday3.jpg",
+        "imageGif": "https://i.ibb.co/RHPFVKp/image.gif",
+        "description": "Лягте на пол и поставьте руки заголову. Медленно подымайте голову и корпус в сторону ног, при этом ноги и таз должны остоваться неподвижными.",
+        "ads_level_to_hands": 0.5,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.5,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 4,
+        "title": "Подъём колен",
+        "image": "https://i.ibb.co/54ZQxGd/everyday4.jpg",
+        "imageGif": "https://i.ibb.co/K6zyVWc/image.gif",
+        "description": "Лягте на пол. Медленно подымаёте колени к телу, при этом тело должно оставаться неподвижным.",
+        "ads_level_to_hands": 0.5,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.5,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 5,
+        "title": "Отжимания на стуле",
+        "image": "https://i.ibb.co/kmCjcgm/everyday5.jpg",
+        "imageGif": "https://i.ibb.co/sFG9VWc/image.gif",
+        "description": "Расположите руки на ширине плеч на спортивной скамье или устойчивом стуле. На вдохе медленно согните локти, чтобы опустить свое тело к полу, пока плечо и предплечье не образуют угол 90 градусов. На выдохе, оттолкнувшись от скамьи, выпрямите локти и вернитесь в исходное положение.",
+        "ads_level_to_hands": 0.5,
+        "ads_level_to_body": 0.5, 
+        "ads_level_to_legs": 0.5,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 6,
+        "title": "Выпрямление рук и ног в планке",
+        "image": "https://i.ibb.co/tPSsM0J/everyday6.jpg",
+        "imageGif": "https://i.ibb.co/bXkZvyy/image.gif",
+        "description": "Примите упор лежа, руки прямо под плечами, а тело образует прямую линию от плеч до ног. Сохраняя корпус неподвижным, выпрямите одну руку перед собой и ногу позади себя так, чтобы она была параллельна полу.",
+        "ads_level_to_hands": 0.5,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 0.5,
+        "time": 60,
+        "sum": 20
+    }
+]
